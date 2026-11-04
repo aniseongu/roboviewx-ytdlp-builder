@@ -1,0 +1,3 @@
+target_label,label_code,is_intrusion,group,audioset_mids,max_candidates
+footsteps,INTRUSION_FOOTSTEP,true,intrusion,/m/07pbtc8,200
+speech,NONINTR_SPEECH,false,non_intrusion,/m/09x0r,100
